@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - RedGem
+  - GreenGem
+  - BlueGem
   layers:
   - Default
   - TransparentFX
